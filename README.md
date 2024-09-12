@@ -8,14 +8,12 @@ Retrieving Details of the Flow: The program pulls up details about the different
 
 Patching the Code: The program looks at the updated code in the Multiply.py and Summarize.py files. If changes have been made, the program automatically updates the code in the corresponding nodes in Taktile, so your decision flow stays up-to-date.
 
-How It Works:
 Every time you merge changes into the main branch of your GitHub repository, the automation script kicks in and does the following:
 
 It checks which decision flow needs updating.
 It identifies the nodes related to the Multiply.py and Summarize.py files.
 It updates the code in those nodes based on the latest version of your Python files.
 
-What You Need to Do:
 All you need to do is merge the updated versions of Multiply.py and Summarize.py to your GitHub repository’s main branch. The automation will take care of the rest.
 
 If you have any questions or want to understand more about how this works, feel free to reach out!
