@@ -1,6 +1,5 @@
 # taktile_test
 
-What the Solution Does:
 We’ve created a solution that automatically updates the code in your decision flows whenever you change underlying files in your GitHub repository. It works with two files you provided: Multiply.py and Summarize.py (please note that I did make a small change to the Multiply file). Here's how it works:
 
 Listing All Decision Flows: The program asks Taktile to list all the decision flows (these are like workflows that guide decisions) available in your workspace. This helps us identify which flow needs to be updated.
